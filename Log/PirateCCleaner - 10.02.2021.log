@@ -1,0 +1,1151 @@
+[INFO][10/02/2021 15:59:02.291] Iniciando Pirate CCleaner
+[INFO][10/02/2021 15:59:02.303] Method: CleanersInit, started...
+[INFO][10/02/2021 15:59:02.304] Clearing temp folders...
+[INFO][10/02/2021 15:59:02.305] -----------------
+[INFO][10/02/2021 15:59:02.306] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 15:59:02.307] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 15:59:02.309] Remaining files and folders: 0
+[INFO][10/02/2021 15:59:02.309] -----------------
+[INFO][10/02/2021 15:59:02.31] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 15:59:02.311] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 15:59:02.334] Remaining files and folders: 0
+[INFO][10/02/2021 15:59:02.334] -----------------
+[INFO][10/02/2021 15:59:02.335] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 15:59:02.336] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 15:59:02.336] Remaining files and folders: 0
+[INFO][10/02/2021 15:59:02.337] -----------------
+[INFO][10/02/2021 15:59:02.338] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 107
+[INFO][10/02/2021 15:59:06.444] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 15:59:06.445] Remaining files and folders: 59
+[INFO][10/02/2021 15:59:06.445] -----------------
+[INFO][10/02/2021 15:59:06.446] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 15:59:06.447] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 15:59:06.448] Remaining files and folders: 0
+[INFO][10/02/2021 15:59:06.448] -----------------
+[INFO][10/02/2021 15:59:06.448] All Temp folders was cleared
+[INFO][10/02/2021 15:59:06.449] -----------------
+[INFO][10/02/2021 15:59:06.45] Clearing Trash...
+[INFO][10/02/2021 15:59:06.923] Trash was cleared
+[INFO][10/02/2021 15:59:06.939] acservice
+[INFO][10/02/2021 15:59:06.943] AJRouter
+[INFO][10/02/2021 15:59:06.943] ALG
+[INFO][10/02/2021 15:59:06.944] AppIDSvc
+[INFO][10/02/2021 15:59:06.944] Appinfo
+[INFO][10/02/2021 15:59:06.945] AppReadiness
+[INFO][10/02/2021 15:59:06.945] AppXSvc
+[INFO][10/02/2021 15:59:06.945] aspnet_state
+[INFO][10/02/2021 15:59:06.946] AtherosSvc
+[INFO][10/02/2021 15:59:06.946] AudioEndpointBuilder
+[INFO][10/02/2021 15:59:06.947] Audiosrv
+[INFO][10/02/2021 15:59:06.947] autotimesvc
+[INFO][10/02/2021 15:59:06.947] AVP21.2
+[INFO][10/02/2021 15:59:06.948] AxInstSV
+[INFO][10/02/2021 15:59:06.96] BDESVC
+[INFO][10/02/2021 15:59:06.963] BFE
+[INFO][10/02/2021 15:59:06.963] BITS
+[INFO][10/02/2021 15:59:06.965] BrokerInfrastructure
+[INFO][10/02/2021 15:59:06.97] BTAGService
+[INFO][10/02/2021 15:59:06.97] BthAvctpSvc
+[INFO][10/02/2021 15:59:06.971] bthserv
+[INFO][10/02/2021 15:59:06.971] camsvc
+[INFO][10/02/2021 15:59:06.972] CDPSvc
+[INFO][10/02/2021 15:59:06.972] CertPropSvc
+[INFO][10/02/2021 15:59:06.973] ClipSVC
+[INFO][10/02/2021 15:59:06.974] COMSysApp
+[INFO][10/02/2021 15:59:07.025] CoreMessagingRegistrar
+[INFO][10/02/2021 15:59:07.026] cphs
+[INFO][10/02/2021 15:59:07.027] cplspcon
+[INFO][10/02/2021 15:59:07.028] CryptSvc
+[INFO][10/02/2021 15:59:07.029] DcomLaunch
+[INFO][10/02/2021 15:59:07.03] defragsvc
+[INFO][10/02/2021 15:59:07.03] DeviceAssociationService
+[INFO][10/02/2021 15:59:07.03] DeviceInstall
+[INFO][10/02/2021 15:59:07.032] DevQueryBroker
+[INFO][10/02/2021 15:59:07.032] Dhcp
+[INFO][10/02/2021 15:59:07.033] diagnosticshub.standardcollector.service
+[INFO][10/02/2021 15:59:07.033] diagsvc
+[INFO][10/02/2021 15:59:07.034] DiagTrack
+[INFO][10/02/2021 15:59:07.034] DispBrokerDesktopSvc
+[INFO][10/02/2021 15:59:07.035] DisplayEnhancementService
+[INFO][10/02/2021 15:59:07.035] DmEnrollmentSvc
+[INFO][10/02/2021 15:59:07.036] dmwappushservice
+[INFO][10/02/2021 15:59:07.036] Dnscache
+[INFO][10/02/2021 15:59:07.037] DoSvc
+[INFO][10/02/2021 15:59:07.038] dot3svc
+[INFO][10/02/2021 15:59:07.038] DPS
+[INFO][10/02/2021 15:59:07.038] DsmSvc
+[INFO][10/02/2021 15:59:07.042] DsSvc
+[INFO][10/02/2021 15:59:07.043] DusmSvc
+[INFO][10/02/2021 15:59:07.043] Eaphost
+[INFO][10/02/2021 15:59:07.044] edgeupdate
+[INFO][10/02/2021 15:59:07.044] edgeupdatem
+[INFO][10/02/2021 15:59:07.045] EFS
+[INFO][10/02/2021 15:59:07.046] embeddedmode
+[INFO][10/02/2021 15:59:07.046] EntAppSvc
+[INFO][10/02/2021 15:59:07.046] EventLog
+[INFO][10/02/2021 15:59:07.047] EventSystem
+[INFO][10/02/2021 15:59:07.047] Fax
+[INFO][10/02/2021 15:59:07.047] fdPHost
+[INFO][10/02/2021 15:59:07.048] FDResPub
+[INFO][10/02/2021 15:59:07.048] fhsvc
+[INFO][10/02/2021 15:59:07.048] FontCache
+[INFO][10/02/2021 15:59:07.049] FrameServer
+[INFO][10/02/2021 15:59:07.049] GCPWExtension
+[INFO][10/02/2021 15:59:07.049] GoogleChromeElevationService
+[INFO][10/02/2021 15:59:07.05] gpsvc
+[INFO][10/02/2021 15:59:07.05] GraphicsPerfSvc
+[INFO][10/02/2021 15:59:07.05] gupdate
+[INFO][10/02/2021 15:59:07.051] gupdatem
+[INFO][10/02/2021 15:59:07.051] hidserv
+[INFO][10/02/2021 15:59:07.052] HvHost
+[INFO][10/02/2021 15:59:07.052] icssvc
+[INFO][10/02/2021 15:59:07.052] igccservice
+[INFO][10/02/2021 15:59:07.052] igfxCUIService2.0.0.0
+[INFO][10/02/2021 15:59:07.053] IKEEXT
+[INFO][10/02/2021 15:59:07.053] InstallService
+[INFO][10/02/2021 15:59:07.053] Intel(R) Capability Licensing Service TCP IP Interface
+[INFO][10/02/2021 15:59:07.056] Intel(R) TPM Provisioning Service
+[INFO][10/02/2021 15:59:07.056] iphlpsvc
+[INFO][10/02/2021 15:59:07.063] IpOverUsbSvc
+[INFO][10/02/2021 15:59:07.064] IpxlatCfgSvc
+[INFO][10/02/2021 15:59:07.065] jhi_service
+[INFO][10/02/2021 15:59:07.065] KeyIso
+[INFO][10/02/2021 15:59:07.065] klvssbridge64_21.2
+[INFO][10/02/2021 15:59:07.066] kpm_launch_service
+[INFO][10/02/2021 15:59:07.066] KtmRm
+[INFO][10/02/2021 15:59:07.067] LanmanServer
+[INFO][10/02/2021 15:59:07.068] LanmanWorkstation
+[INFO][10/02/2021 15:59:07.07] lfsvc
+[INFO][10/02/2021 15:59:07.072] LicenseManager
+[INFO][10/02/2021 15:59:07.076] lltdsvc
+[INFO][10/02/2021 15:59:07.092] lmhosts
+[INFO][10/02/2021 15:59:07.094] LSM
+[INFO][10/02/2021 15:59:07.095] LxpSvc
+[INFO][10/02/2021 15:59:07.096] MapsBroker
+[INFO][10/02/2021 15:59:07.097] MicrosoftEdgeElevationService
+[INFO][10/02/2021 15:59:07.097] MixedRealityOpenXRSvc
+[INFO][10/02/2021 15:59:07.097] MongoDB
+[INFO][10/02/2021 15:59:07.098] mpssvc
+[INFO][10/02/2021 15:59:07.098] MSDTC
+[INFO][10/02/2021 15:59:07.099] MSiSCSI
+[INFO][10/02/2021 15:59:07.099] msiserver
+[INFO][10/02/2021 15:59:07.1] NaturalAuthentication
+[INFO][10/02/2021 15:59:07.102] NcaSvc
+[INFO][10/02/2021 15:59:07.102] NcbService
+[INFO][10/02/2021 15:59:07.103] NcdAutoSetup
+[INFO][10/02/2021 15:59:07.103] Netlogon
+[INFO][10/02/2021 15:59:07.103] Netman
+[INFO][10/02/2021 15:59:07.104] netprofm
+[INFO][10/02/2021 15:59:07.104] NetSetupSvc
+[INFO][10/02/2021 15:59:07.104] NetTcpPortSharing
+[INFO][10/02/2021 15:59:07.105] NgcCtnrSvc
+[INFO][10/02/2021 15:59:07.105] NgcSvc
+[INFO][10/02/2021 15:59:07.106] NlaSvc
+[INFO][10/02/2021 15:59:07.106] nsi
+[INFO][10/02/2021 15:59:07.107] OpenVPNService
+[INFO][10/02/2021 15:59:07.107] OpenVPNServiceInteractive
+[INFO][10/02/2021 15:59:07.107] OpenVPNServiceLegacy
+[INFO][10/02/2021 15:59:07.108] ose64
+[INFO][10/02/2021 15:59:07.108] p2pimsvc
+[INFO][10/02/2021 15:59:07.109] p2psvc
+[INFO][10/02/2021 15:59:07.109] PcaSvc
+[INFO][10/02/2021 15:59:07.109] perceptionsimulation
+[INFO][10/02/2021 15:59:07.11] PerfHost
+[INFO][10/02/2021 15:59:07.11] PhoneSvc
+[INFO][10/02/2021 15:59:07.11] pla
+[INFO][10/02/2021 15:59:07.113] PlugPlay
+[INFO][10/02/2021 15:59:07.114] PNRPAutoReg
+[INFO][10/02/2021 15:59:07.114] PNRPsvc
+[INFO][10/02/2021 15:59:07.115] PolicyAgent
+[INFO][10/02/2021 15:59:07.115] Power
+[INFO][10/02/2021 15:59:07.115] PrintNotify
+[INFO][10/02/2021 15:59:07.118] ProfSvc
+[INFO][10/02/2021 15:59:07.118] PushToInstall
+[INFO][10/02/2021 15:59:07.119] QcomWlanSrv
+[INFO][10/02/2021 15:59:07.119] QWAVE
+[INFO][10/02/2021 15:59:07.12] RasAuto
+[INFO][10/02/2021 15:59:07.12] RasMan
+[INFO][10/02/2021 15:59:07.121] RemoteAccess
+[INFO][10/02/2021 15:59:07.121] RemoteRegistry
+[INFO][10/02/2021 15:59:07.121] RetailDemo
+[INFO][10/02/2021 15:59:07.122] RmSvc
+[INFO][10/02/2021 15:59:07.122] RpcEptMapper
+[INFO][10/02/2021 15:59:07.122] RpcLocator
+[INFO][10/02/2021 15:59:07.123] RpcSs
+[INFO][10/02/2021 15:59:07.123] RstMwService
+[INFO][10/02/2021 15:59:07.123] SamSs
+[INFO][10/02/2021 15:59:07.124] SCardSvr
+[INFO][10/02/2021 15:59:07.124] ScDeviceEnum
+[INFO][10/02/2021 15:59:07.124] Schedule
+[INFO][10/02/2021 15:59:07.125] SCPolicySvc
+[INFO][10/02/2021 15:59:07.125] SDRSVC
+[INFO][10/02/2021 15:59:07.126] seclogon
+[INFO][10/02/2021 15:59:07.126] SecurityHealthService
+[INFO][10/02/2021 15:59:07.126] SEMgrSvc
+[INFO][10/02/2021 15:59:07.127] SENS
+[INFO][10/02/2021 15:59:07.127] SensorDataService
+[INFO][10/02/2021 15:59:07.136] SensorService
+[INFO][10/02/2021 15:59:07.136] SensrSvc
+[INFO][10/02/2021 15:59:07.137] SessionEnv
+[INFO][10/02/2021 15:59:07.138] SgrmBroker
+[INFO][10/02/2021 15:59:07.139] SharedAccess
+[INFO][10/02/2021 15:59:07.139] SharedRealitySvc
+[INFO][10/02/2021 15:59:07.14] ShellHWDetection
+[INFO][10/02/2021 15:59:07.14] shpamsvc
+[INFO][10/02/2021 15:59:07.14] smphost
+[INFO][10/02/2021 15:59:07.14] SmsRouter
+[INFO][10/02/2021 15:59:07.141] SNMPTRAP
+[INFO][10/02/2021 15:59:07.142] spectrum
+[INFO][10/02/2021 15:59:07.147] Spooler
+[INFO][10/02/2021 15:59:07.147] sppsvc
+[INFO][10/02/2021 15:59:07.148] SQLWriter
+[INFO][10/02/2021 15:59:07.149] SSDPSRV
+[INFO][10/02/2021 15:59:07.174] ssh-agent
+[INFO][10/02/2021 15:59:07.175] SstpSvc
+[INFO][10/02/2021 15:59:07.175] StateRepository
+[INFO][10/02/2021 15:59:07.176] stisvc
+[INFO][10/02/2021 15:59:07.179] StorSvc
+[INFO][10/02/2021 15:59:07.18] svsvc
+[INFO][10/02/2021 15:59:07.181] swprv
+[INFO][10/02/2021 15:59:07.181] SysMain
+[INFO][10/02/2021 15:59:07.186] SystemEventsBroker
+[INFO][10/02/2021 15:59:07.187] TabletInputService
+[INFO][10/02/2021 15:59:07.187] TapiSrv
+[INFO][10/02/2021 15:59:07.188] TeamViewer
+[INFO][10/02/2021 15:59:07.189] TechSmith Uploader Service
+[INFO][10/02/2021 15:59:07.19] TermService
+[INFO][10/02/2021 15:59:07.19] Themes
+[INFO][10/02/2021 15:59:07.191] TieringEngineService
+[INFO][10/02/2021 15:59:07.191] TimeBrokerSvc
+[INFO][10/02/2021 15:59:07.192] TokenBroker
+[INFO][10/02/2021 15:59:07.192] TrkWks
+[INFO][10/02/2021 15:59:07.193] TroubleshootingSvc
+[INFO][10/02/2021 15:59:07.193] TrustedInstaller
+[INFO][10/02/2021 15:59:07.195] tzautoupdate
+[INFO][10/02/2021 15:59:07.196] UmRdpService
+[INFO][10/02/2021 15:59:07.196] upnphost
+[INFO][10/02/2021 15:59:07.197] UserManager
+[INFO][10/02/2021 15:59:07.197] UsoSvc
+[INFO][10/02/2021 15:59:07.198] VacSvc
+[INFO][10/02/2021 15:59:07.198] VaultSvc
+[INFO][10/02/2021 15:59:07.198] vds
+[INFO][10/02/2021 15:59:07.199] vmicguestinterface
+[INFO][10/02/2021 15:59:07.199] vmicheartbeat
+[INFO][10/02/2021 15:59:07.2] vmickvpexchange
+[INFO][10/02/2021 15:59:07.2] vmicrdv
+[INFO][10/02/2021 15:59:07.201] vmicshutdown
+[INFO][10/02/2021 15:59:07.201] vmictimesync
+[INFO][10/02/2021 15:59:07.202] vmicvmsession
+[INFO][10/02/2021 15:59:07.203] vmicvss
+[INFO][10/02/2021 15:59:07.203] VSS
+[INFO][10/02/2021 15:59:07.203] VSStandardCollectorService150
+[INFO][10/02/2021 15:59:07.204] W32Time
+[INFO][10/02/2021 15:59:07.205] WaaSMedicSvc
+[INFO][10/02/2021 15:59:07.205] WalletService
+[INFO][10/02/2021 15:59:07.205] WarpJITSvc
+[INFO][10/02/2021 15:59:07.206] wbengine
+[INFO][10/02/2021 15:59:07.206] WbioSrvc
+[INFO][10/02/2021 15:59:07.207] Wcmsvc
+[INFO][10/02/2021 15:59:07.207] wcncsvc
+[INFO][10/02/2021 15:59:07.208] WdiServiceHost
+[INFO][10/02/2021 15:59:07.217] WdiSystemHost
+[INFO][10/02/2021 15:59:07.217] WdNisSvc
+[INFO][10/02/2021 15:59:07.218] WebClient
+[INFO][10/02/2021 15:59:07.218] Wecsvc
+[INFO][10/02/2021 15:59:07.219] WEPHOSTSVC
+[INFO][10/02/2021 15:59:07.219] wercplsupport
+[INFO][10/02/2021 15:59:07.22] WerSvc
+[INFO][10/02/2021 15:59:07.22] WFDSConMgrSvc
+[INFO][10/02/2021 15:59:07.221] WiaRpc
+[INFO][10/02/2021 15:59:07.221] WinDefend
+[INFO][10/02/2021 15:59:07.222] WinHttpAutoProxySvc
+[INFO][10/02/2021 15:59:07.222] Winmgmt
+[INFO][10/02/2021 15:59:07.222] WinRM
+[INFO][10/02/2021 15:59:07.223] wisvc
+[INFO][10/02/2021 15:59:07.223] WlanSvc
+[INFO][10/02/2021 15:59:07.225] wlidsvc
+[INFO][10/02/2021 15:59:07.225] wlpasvc
+[INFO][10/02/2021 15:59:07.226] WManSvc
+[INFO][10/02/2021 15:59:07.226] wmiApSrv
+[INFO][10/02/2021 15:59:07.227] WMPNetworkSvc
+[INFO][10/02/2021 15:59:07.227] workfolderssvc
+[INFO][10/02/2021 15:59:07.227] WpcMonSvc
+[INFO][10/02/2021 15:59:07.228] WPDBusEnum
+[INFO][10/02/2021 15:59:07.228] WpnService
+[INFO][10/02/2021 15:59:07.229] wscsvc
+[INFO][10/02/2021 15:59:07.229] WSearch
+[INFO][10/02/2021 15:59:07.23] wuauserv
+[INFO][10/02/2021 15:59:07.23] WwanSvc
+[INFO][10/02/2021 15:59:07.231] XblAuthManager
+[INFO][10/02/2021 15:59:07.231] XblGameSave
+[INFO][10/02/2021 15:59:07.232] XboxGipSvc
+[INFO][10/02/2021 15:59:07.232] XboxNetApiSvc
+[INFO][10/02/2021 15:59:07.232] AarSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.233] BcastDVRUserService_20f3f51c
+[INFO][10/02/2021 15:59:07.233] BluetoothUserService_20f3f51c
+[INFO][10/02/2021 15:59:07.234] CaptureService_20f3f51c
+[INFO][10/02/2021 15:59:07.234] cbdhsvc_20f3f51c
+[INFO][10/02/2021 15:59:07.235] CDPUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.235] ConsentUxUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.235] CredentialEnrollmentManagerUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.236] DeviceAssociationBrokerSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.236] DevicePickerUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.236] DevicesFlowUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.237] MessagingService_20f3f51c
+[INFO][10/02/2021 15:59:07.237] OneSyncSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.237] PimIndexMaintenanceSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.238] PrintWorkflowUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.238] UdkUserSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.239] UnistoreSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.24] UserDataSvc_20f3f51c
+[INFO][10/02/2021 15:59:07.24] WpnUserService_20f3f51c
+[INFO][10/02/2021 16:00:46.038] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:00:46.043] Method: CleanersInit, started...
+[INFO][10/02/2021 16:00:46.044] Clearing temp folders...
+[INFO][10/02/2021 16:00:46.045] -----------------
+[INFO][10/02/2021 16:00:46.045] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:00:46.046] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:00:46.047] Remaining files and folders: 0
+[INFO][10/02/2021 16:00:46.047] -----------------
+[INFO][10/02/2021 16:00:46.048] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:00:46.048] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:00:46.049] Remaining files and folders: 0
+[INFO][10/02/2021 16:00:46.049] -----------------
+[INFO][10/02/2021 16:00:46.05] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:00:46.051] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:00:46.051] Remaining files and folders: 0
+[INFO][10/02/2021 16:00:46.051] -----------------
+[INFO][10/02/2021 16:00:46.052] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 60
+[INFO][10/02/2021 16:00:47.417] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:00:47.42] Remaining files and folders: 59
+[INFO][10/02/2021 16:00:47.421] -----------------
+[INFO][10/02/2021 16:00:47.421] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:00:47.422] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:00:47.423] Remaining files and folders: 0
+[INFO][10/02/2021 16:00:47.423] -----------------
+[INFO][10/02/2021 16:00:47.424] All Temp folders was cleared
+[INFO][10/02/2021 16:00:47.425] -----------------
+[INFO][10/02/2021 16:00:47.426] Clearing Trash...
+[INFO][10/02/2021 16:00:47.507] Trash was cleared
+[INFO][10/02/2021 16:00:47.51] Aker Client Service
+[INFO][10/02/2021 16:00:47.51] Serviço de Roteador AllJoyn
+[INFO][10/02/2021 16:00:47.511] Serviço Gateway de Camada de Aplicativo
+[INFO][10/02/2021 16:00:47.511] Identidade do Aplicativo
+[INFO][10/02/2021 16:00:47.512] Informações sobre Aplicativos
+[INFO][10/02/2021 16:00:47.512] Preparação de Aplicativos
+[INFO][10/02/2021 16:00:47.514] Serviço de Implantação AppX (AppXSVC)
+[INFO][10/02/2021 16:00:47.514] ASP.NET State Service
+[INFO][10/02/2021 16:00:47.514] AtherosSvc
+[INFO][10/02/2021 16:00:47.515] Construtor de Pontos de Extremidade de Áudio do Windows
+[INFO][10/02/2021 16:00:47.515] Áudio do Windows
+[INFO][10/02/2021 16:00:47.515] Hora da Rede Celular
+[INFO][10/02/2021 16:00:47.516] Serviço do Kaspersky Small Office Security 21.2
+[INFO][10/02/2021 16:00:47.516] Instalador do ActiveX (AxInstSV)
+[INFO][10/02/2021 16:00:47.517] Serviço de Criptografia de Unidade de Disco BitLocker
+[INFO][10/02/2021 16:00:47.517] Mecanismo de Filtragem Básica
+[INFO][10/02/2021 16:00:47.522] Serviço de transferência inteligente de tela de fundo
+[INFO][10/02/2021 16:00:47.525] Serviço de Infraestrutura de Tarefas de Segundo Plano
+[INFO][10/02/2021 16:00:47.525] Serviço de Gateway Bluetooth de Áudio
+[INFO][10/02/2021 16:00:47.526] Serviço AVCTP
+[INFO][10/02/2021 16:00:47.526] Serviço de Suporte a Bluetooth
+[INFO][10/02/2021 16:00:47.526] Serviço do Gerenciador de Acesso de Recurso
+[INFO][10/02/2021 16:00:47.527] Serviço de Plataforma de Dispositivos Conectados
+[INFO][10/02/2021 16:00:47.527] Propagação de Certificado
+[INFO][10/02/2021 16:00:47.528] Serviço de Licenças de Cliente (ClipSVC)
+[INFO][10/02/2021 16:00:47.528] COM+ System Application
+[INFO][10/02/2021 16:00:47.529] CoreMessaging
+[INFO][10/02/2021 16:00:47.529] Intel(R) Content Protection HECI Service
+[INFO][10/02/2021 16:00:47.53] Intel(R) Content Protection HDCP Service
+[INFO][10/02/2021 16:00:47.53] Serviços de criptografia
+[INFO][10/02/2021 16:00:47.53] Inicializador do Processo de Servidor DCOM
+[INFO][10/02/2021 16:00:47.531] Otimizador de unidade
+[INFO][10/02/2021 16:00:47.531] Serviço de Associação de Dispositivo
+[INFO][10/02/2021 16:00:47.531] Serviço de Instalação de Dispositivo
+[INFO][10/02/2021 16:00:47.531] Agente de Descoberta em Segundo Plano de DevQuery
+[INFO][10/02/2021 16:00:47.532] Cliente DHCP
+[INFO][10/02/2021 16:00:47.532] Serviço Coletor de Padrões de Hub de Diagnóstico da Microsoft (R)
+[INFO][10/02/2021 16:00:47.532] Diagnostic Execution Service
+[INFO][10/02/2021 16:00:47.532] Experiências do Usuário Conectado e Telemetria
+[INFO][10/02/2021 16:00:47.533] Exibir Serviço de Política
+[INFO][10/02/2021 16:00:47.533] Serviço de Aprimoramento de Exibição
+[INFO][10/02/2021 16:00:47.533] Serviço de Registro de Gerenciamento de Dispositivos
+[INFO][10/02/2021 16:00:47.534] Serviço de Roteamento de mensagens de envio por Push WAP do Gerenciamento de Dispositivos
+[INFO][10/02/2021 16:00:47.535] Cliente DNS
+[INFO][10/02/2021 16:00:47.535] Otimização de Entrega
+[INFO][10/02/2021 16:00:47.535] Configuração Automática com Fio
+[INFO][10/02/2021 16:00:47.536] Serviço de Política de Diagnóstico
+[INFO][10/02/2021 16:00:47.536] Gerenciador de Instalação de Dispositivo
+[INFO][10/02/2021 16:00:47.536] Serviço de Compartilhamento de Dados
+[INFO][10/02/2021 16:00:47.537] Uso de Dados
+[INFO][10/02/2021 16:00:47.537] Protocolo de Autenticação Extensível
+[INFO][10/02/2021 16:00:47.537] Serviço Microsoft Edge Update (edgeupdate)
+[INFO][10/02/2021 16:00:47.537] Serviço Microsoft Edge Update (edgeupdatem)
+[INFO][10/02/2021 16:00:47.538] EFS (Encrypting File System)
+[INFO][10/02/2021 16:00:47.538] Modo inserido
+[INFO][10/02/2021 16:00:47.538] Serviço de Gerenciamento de Aplicativos Empresariais
+[INFO][10/02/2021 16:00:47.539] Log de Eventos do Windows
+[INFO][10/02/2021 16:00:47.539] COM+ evento do sistema
+[INFO][10/02/2021 16:00:47.54] Fax
+[INFO][10/02/2021 16:00:47.54] Host de Provedor da Descoberta de Função
+[INFO][10/02/2021 16:00:47.54] Publicação de Recursos de Descoberta de Função
+[INFO][10/02/2021 16:00:47.543] Serviço de Histórico de Arquivos
+[INFO][10/02/2021 16:00:47.543] Serviço de Cache de Fontes do Windows
+[INFO][10/02/2021 16:00:47.544] Servidor de Quadros de Câmera do Windows
+[INFO][10/02/2021 16:00:47.544] GCPW Extension Service
+[INFO][10/02/2021 16:00:47.545] Google Chrome Elevation Service (GoogleChromeElevationService)
+[INFO][10/02/2021 16:00:47.545] Cliente da Política de Grupo
+[INFO][10/02/2021 16:00:47.546] GraphicsPerfSvc
+[INFO][10/02/2021 16:00:47.547] Serviço do Google Update (gupdate)
+[INFO][10/02/2021 16:00:47.575] Serviço do Google Update (gupdatem)
+[INFO][10/02/2021 16:00:47.575] Serviço de Dispositivos de Interface Humana
+[INFO][10/02/2021 16:00:47.576] Serviço de Host HV
+[INFO][10/02/2021 16:00:47.576] Serviço de Hotspot Móvel do Windows
+[INFO][10/02/2021 16:00:47.576] Intel(R) Graphics Command Center Service
+[INFO][10/02/2021 16:00:47.577] Intel(R) HD Graphics Control Panel Service
+[INFO][10/02/2021 16:00:47.577] Módulos de Criação de Chaves IKE e AuthIP do IPSec
+[INFO][10/02/2021 16:00:47.577] Serviço de Instalação da Microsoft Store
+[INFO][10/02/2021 16:00:47.577] Intel(R) Capability Licensing Service TCP IP Interface
+[INFO][10/02/2021 16:00:47.578] Intel(R) TPM Provisioning Service
+[INFO][10/02/2021 16:00:47.579] Auxiliar de IP
+[INFO][10/02/2021 16:00:47.58] Windows Phone IP over USB Transport (IpOverUsbSvc)
+[INFO][10/02/2021 16:00:47.58] Serviço de Configuração de Conversão de IP
+[INFO][10/02/2021 16:00:47.581] Intel(R) Dynamic Application Loader Host Interface Service
+[INFO][10/02/2021 16:00:47.581] Isolamento de Chave CNG
+[INFO][10/02/2021 16:00:47.581] Kaspersky Volume Shadow Copy Service Bridge 21.2
+[INFO][10/02/2021 16:00:47.582] Kaspersky Password Manager Service
+[INFO][10/02/2021 16:00:47.582] KtmRm para Coordenador de Transações Distribuídas
+[INFO][10/02/2021 16:00:47.582] Server
+[INFO][10/02/2021 16:00:47.582] Estação de trabalho
+[INFO][10/02/2021 16:00:47.583] Serviço de Geolocalização
+[INFO][10/02/2021 16:00:47.583] Serviço de Gerenciador de Licença do Windows
+[INFO][10/02/2021 16:00:47.583] Mapeador da Descoberta de Topologia da Camada de Link
+[INFO][10/02/2021 16:00:47.584] Auxiliar NetBIOS TCP/IP
+[INFO][10/02/2021 16:00:47.584] Gerenciador de Sessão Local
+[INFO][10/02/2021 16:00:47.584] Serviço de Experiência em Idiomas
+[INFO][10/02/2021 16:00:47.585] Gerenciador de Mapas Baixados
+[INFO][10/02/2021 16:00:47.585] Microsoft Edge Elevation Service
+[INFO][10/02/2021 16:00:47.585] Windows Mixed Reality OpenXR Service
+[INFO][10/02/2021 16:00:47.586] MongoDB Server (MongoDB)
+[INFO][10/02/2021 16:00:47.586] Windows Defender Firewall
+[INFO][10/02/2021 16:00:47.586] Coordenador de transações distribuídas
+[INFO][10/02/2021 16:00:47.587] Serviço Iniciador Microsoft iSCSI
+[INFO][10/02/2021 16:00:47.587] Windows Installer
+[INFO][10/02/2021 16:00:47.587] Autenticação Natural
+[INFO][10/02/2021 16:00:47.587] Assistente de Conectividade de Rede
+[INFO][10/02/2021 16:00:47.591] Agente de Conexão de Rede
+[INFO][10/02/2021 16:00:47.591] Instalação Automática de Dispositivos Conectados à Rede
+[INFO][10/02/2021 16:00:47.592] Logon de rede
+[INFO][10/02/2021 16:00:47.592] Conexões de Rede
+[INFO][10/02/2021 16:00:47.592] Serviço da Lista de Redes
+[INFO][10/02/2021 16:00:47.593] Serviço de Configuração de Rede
+[INFO][10/02/2021 16:00:47.593] Serviço de Compartilhamento de Porta Net.Tcp
+[INFO][10/02/2021 16:00:47.596] Contêiner do Microsoft Passport
+[INFO][10/02/2021 16:00:47.596] Microsoft Passport
+[INFO][10/02/2021 16:00:47.597] Reconhecimento de Locais de Rede
+[INFO][10/02/2021 16:00:47.597] Serviço de Interface de Repositório de Rede
+[INFO][10/02/2021 16:00:47.598] OpenVPNService
+[INFO][10/02/2021 16:00:47.6] OpenVPN Interactive Service
+[INFO][10/02/2021 16:00:47.601] OpenVPN Legacy Service
+[INFO][10/02/2021 16:00:47.602] Office 64 Source Engine
+[INFO][10/02/2021 16:00:47.605] Gerenciador de Identidades de Rede de Par
+[INFO][10/02/2021 16:00:47.606] Agrupamento de Rede de Par
+[INFO][10/02/2021 16:00:47.606] Serviço Auxiliar de Compatibilidade de Programas
+[INFO][10/02/2021 16:00:47.606] Serviço de Simulação de Percepção do Windows
+[INFO][10/02/2021 16:00:47.607] Host de DLL de Contador de Desempenho
+[INFO][10/02/2021 16:00:47.607] Serviço de Telefonia
+[INFO][10/02/2021 16:00:47.607] Logs e alertas de desempenho
+[INFO][10/02/2021 16:00:47.607] Plug and Play
+[INFO][10/02/2021 16:00:47.611] Serviço de Publicação de Nome de Computador do PNRP
+[INFO][10/02/2021 16:00:47.613] Protocolo PNRP
+[INFO][10/02/2021 16:00:47.619] Agente de Política IPsec
+[INFO][10/02/2021 16:00:47.633] Ligar/Desligar
+[INFO][10/02/2021 16:00:47.634] Extensões e Notificações da Impressora
+[INFO][10/02/2021 16:00:47.634] Serviço de Perfil de Usuário
+[INFO][10/02/2021 16:00:47.635] Serviço Windows PushToInstall
+[INFO][10/02/2021 16:00:47.636] Qualcomm Atheros WLAN Driver Service
+[INFO][10/02/2021 16:00:47.636] Quality Windows Audio Video Experience
+[INFO][10/02/2021 16:00:47.636] Gerenciador de conexão de acesso remoto automático
+[INFO][10/02/2021 16:00:47.637] Gerenciador de conexão de acesso remoto
+[INFO][10/02/2021 16:00:47.64] Roteamento e Acesso Remoto
+[INFO][10/02/2021 16:00:47.642] Registro remoto
+[INFO][10/02/2021 16:00:47.643] Serviço de Demonstração de Revenda
+[INFO][10/02/2021 16:00:47.643] Serviço de Gerenciamento de Rádio
+[INFO][10/02/2021 16:00:47.643] Mapeador de Ponto de Extremidade RPC
+[INFO][10/02/2021 16:00:47.644] Alocador Remote Procedure Call (RPC)
+[INFO][10/02/2021 16:00:47.644] RPC (Chamada de Procedimento Remoto)
+[INFO][10/02/2021 16:00:47.644] Intel(R) Storage Middleware Service
+[INFO][10/02/2021 16:00:47.645] Gerente de Contas de Segurança
+[INFO][10/02/2021 16:00:47.645] Cartão inteligente
+[INFO][10/02/2021 16:00:47.645] Serviço de Enumeração de Dispositivo de Cartão Inteligente
+[INFO][10/02/2021 16:00:47.647] Agendador de Tarefas
+[INFO][10/02/2021 16:00:47.648] Política de Remoção de Cartão Inteligente
+[INFO][10/02/2021 16:00:47.648] Backup do Windows
+[INFO][10/02/2021 16:00:47.65] Logon secundário
+[INFO][10/02/2021 16:00:47.651] Serviço de Segurança do Windows
+[INFO][10/02/2021 16:00:47.651] Gerenciador de NFC/SE e Pagamentos
+[INFO][10/02/2021 16:00:47.652] Serviço de Notificação de Eventos do Sistema
+[INFO][10/02/2021 16:00:47.652] Serviço de Dados de Sensor
+[INFO][10/02/2021 16:00:47.652] Serviço de Sensor
+[INFO][10/02/2021 16:00:47.653] Serviço de Monitoramento de Sensor
+[INFO][10/02/2021 16:00:47.658] Configuração da Área de Trabalho Remota
+[INFO][10/02/2021 16:00:47.661] System Guard Runtime Monitor Broker
+[INFO][10/02/2021 16:00:47.661] ICS (Compartilhamento de Conexão com a Internet)
+[INFO][10/02/2021 16:00:47.662] Serviço de Dados Espaciais
+[INFO][10/02/2021 16:00:47.662] Detecção do hardware do shell
+[INFO][10/02/2021 16:00:47.662] Shared PC Account Manager
+[INFO][10/02/2021 16:00:47.663] SMP de Espaços de Armazenamento da Microsoft
+[INFO][10/02/2021 16:00:47.663] Serviço de Roteador SMS do Microsoft Windows
+[INFO][10/02/2021 16:00:47.664] Interceptação SNMP
+[INFO][10/02/2021 16:00:47.664] Serviço de Percepção do Windows
+[INFO][10/02/2021 16:00:47.664] Spooler de Impressão
+[INFO][10/02/2021 16:00:47.665] Proteção de Software
+[INFO][10/02/2021 16:00:47.665] Gravador VSS do SQL Server
+[INFO][10/02/2021 16:00:47.665] Descoberta SSDP
+[INFO][10/02/2021 16:00:47.666] OpenSSH Authentication Agent
+[INFO][10/02/2021 16:00:47.666] Serviço SSTP
+[INFO][10/02/2021 16:00:47.667] Serviço de Repositório de Estado
+[INFO][10/02/2021 16:00:47.667] Assistente de aquisição de imagens do Windows (WIA)
+[INFO][10/02/2021 16:00:47.668] Serviço de Armazenamento
+[INFO][10/02/2021 16:00:47.668] Verificador de Ponto
+[INFO][10/02/2021 16:00:47.669] Provedor de Cópia de Sombra de Software da Microsoft
+[INFO][10/02/2021 16:00:47.67] SysMain
+[INFO][10/02/2021 16:00:47.67] Agente de Eventos do Sistema
+[INFO][10/02/2021 16:00:47.67] Serviço de Teclado Virtual e Painel de Manuscrito
+[INFO][10/02/2021 16:00:47.67] Telefonia
+[INFO][10/02/2021 16:00:47.673] TeamViewer
+[INFO][10/02/2021 16:00:47.673] TechSmith Uploader Service
+[INFO][10/02/2021 16:00:47.674] Serviços de Área de Trabalho Remota
+[INFO][10/02/2021 16:00:47.674] Temas
+[INFO][10/02/2021 16:00:47.675] Gerenciamento de Camadas de Armazenamento
+[INFO][10/02/2021 16:00:47.675] Agente de Tempo
+[INFO][10/02/2021 16:00:47.676] Gerenciador de Conta da Web
+[INFO][10/02/2021 16:00:47.676] Cliente de rastreamento de link distribuído
+[INFO][10/02/2021 16:00:47.677] Serviço de solução de problemas recomendado
+[INFO][10/02/2021 16:00:47.677] Instalador de Módulos do Windows
+[INFO][10/02/2021 16:00:47.678] Atualizador de Fuso Horário Automático
+[INFO][10/02/2021 16:00:47.679] Redirecionador de Portas do Modo do Usuário dos Serviços de Área de Trabalho
+[INFO][10/02/2021 16:00:47.679] Host de dispositivo UPnP
+[INFO][10/02/2021 16:00:47.684] Gerenciador de Usuários
+[INFO][10/02/2021 16:00:47.685] Atualizar o Serviço Orchestrator
+[INFO][10/02/2021 16:00:47.685] Serviço Compositor de Áudio Volumétrico
+[INFO][10/02/2021 16:00:47.689] Gerenciador de Credenciais
+[INFO][10/02/2021 16:00:47.691] Disco Virtual
+[INFO][10/02/2021 16:00:47.691] Interface de Serviço de Convidado do Hyper-V
+[INFO][10/02/2021 16:00:47.692] Serviço de Pulsação do Hyper-V
+[INFO][10/02/2021 16:00:47.692] Serviço de Troca de Dados do Hyper-V
+[INFO][10/02/2021 16:00:47.692] Serviço de Virtualização de Área de Trabalho Remota do Hyper-V
+[INFO][10/02/2021 16:00:47.693] Serviço de Desligamento de Convidado do Hyper-V
+[INFO][10/02/2021 16:00:47.694] Serviço de Sincronização de Data/Hora do Hyper-V
+[INFO][10/02/2021 16:00:47.694] Serviço Direto do Hyper-V PowerShell
+[INFO][10/02/2021 16:00:47.695] Solicitante de Cópia de Sombra de Volume do Hyper-V
+[INFO][10/02/2021 16:00:47.695] Cópia de Sombra de Volume
+[INFO][10/02/2021 16:00:47.696] Visual Studio Standard Collector Service 150
+[INFO][10/02/2021 16:00:47.696] Horário do Windows
+[INFO][10/02/2021 16:00:47.697] Serviço Medic do Windows Update
+[INFO][10/02/2021 16:00:47.697] WalletService
+[INFO][10/02/2021 16:00:47.697] WarpJITSvc
+[INFO][10/02/2021 16:00:47.697] Serviço de Mecanismo de Backup em Nível de Bloco
+[INFO][10/02/2021 16:00:47.697] Serviço de Biometria do Windows
+[INFO][10/02/2021 16:00:47.698] Gerenciador de Conexões do Windows
+[INFO][10/02/2021 16:00:47.698] Conexão Fácil do Windows - Registrador de Configuração
+[INFO][10/02/2021 16:00:47.698] Host do Serviço de Diagnóstico
+[INFO][10/02/2021 16:00:47.699] Host do Sistema de Diagnósticos
+[INFO][10/02/2021 16:00:47.699] Serviço de Inspeção de Rede do Microsoft Defender Antivírus
+[INFO][10/02/2021 16:00:47.7] Cliente da Web
+[INFO][10/02/2021 16:00:47.7] Coletor de Eventos do Windows
+[INFO][10/02/2021 16:00:47.7] Serviço de Host do Provedor de Criptografia do Windows
+[INFO][10/02/2021 16:00:47.701] Suporte do Painel de Controle Relatórios de problemas
+[INFO][10/02/2021 16:00:47.701] Serviço de Relatórios de Erro do Windows
+[INFO][10/02/2021 16:00:47.702] Serviço do Gerenciador de Conexões de Serviços do Wi-Fi Direct
+[INFO][10/02/2021 16:00:47.702] Eventos de Aquisição de Imagens Estáticas
+[INFO][10/02/2021 16:00:47.703] Serviço Microsoft Defender Antivírus
+[INFO][10/02/2021 16:00:47.703] Serviço de Descoberta Automática de Proxy da Web do WinHTTP
+[INFO][10/02/2021 16:00:47.703] Testador de instrumentação de gerenciam. do Windows
+[INFO][10/02/2021 16:00:47.704] Windows Remote Management (WS-Management)
+[INFO][10/02/2021 16:00:47.704] Serviço do Participante do Programa Windows Insider
+[INFO][10/02/2021 16:00:47.704] Configuração Automática de WLAN
+[INFO][10/02/2021 16:00:47.704] Assistente de Conexão de Conta da Microsoft
+[INFO][10/02/2021 16:00:47.705] Serviço Assistente de Perfil Local
+[INFO][10/02/2021 16:00:47.705] Serviço de gerenciamento do Windows
+[INFO][10/02/2021 16:00:47.705] Adaptador de Desempenho WMI
+[INFO][10/02/2021 16:00:47.706] Serviço de Compartilhamento de Rede do Windows Media Player
+[INFO][10/02/2021 16:00:47.706] Pastas de Trabalho
+[INFO][10/02/2021 16:00:47.706] Controles dos Pais
+[INFO][10/02/2021 16:00:47.707] Serviço Enumerador de Dispositivos Portáteis
+[INFO][10/02/2021 16:00:47.707] Serviço do Sistema de Notificações por Push do Windows
+[INFO][10/02/2021 16:00:47.708] Central de Segurança
+[INFO][10/02/2021 16:00:47.708] Windows Search
+[INFO][10/02/2021 16:00:47.709] Windows Update
+[INFO][10/02/2021 16:00:47.709] Configuração Automática de WWAN
+[INFO][10/02/2021 16:00:47.709] Gerenciador de Autenticação Xbox Live
+[INFO][10/02/2021 16:00:47.71] Salvar Jogos no Xbox Live
+[INFO][10/02/2021 16:00:47.71] Xbox Accessory Management Service
+[INFO][10/02/2021 16:00:47.711] Serviço de Rede Xbox Live
+[INFO][10/02/2021 16:00:47.712] Agent Activation Runtime_20f3f51c
+[INFO][10/02/2021 16:00:47.714] Serviço de Usuário do GameDVR e Transmissão_20f3f51c
+[INFO][10/02/2021 16:00:47.714] Serviço de Suporte a Usuários de Bluetooth_20f3f51c
+[INFO][10/02/2021 16:00:47.714] CaptureService_20f3f51c
+[INFO][10/02/2021 16:00:47.715] Serviço de Usuário da Área de Transferência_20f3f51c
+[INFO][10/02/2021 16:00:47.715] Serviço de Usuário da Plataforma de Dispositivos Conectados_20f3f51c
+[INFO][10/02/2021 16:00:47.715] ConsentUX_20f3f51c
+[INFO][10/02/2021 16:00:47.716] CredentialEnrollmentManagerUserSvc_20f3f51c
+[INFO][10/02/2021 16:00:47.716] DeviceAssociationBroker_20f3f51c
+[INFO][10/02/2021 16:00:47.716] DevicePicker_20f3f51c
+[INFO][10/02/2021 16:00:47.717] DevicesFlow_20f3f51c
+[INFO][10/02/2021 16:00:47.717] MessagingService_20f3f51c
+[INFO][10/02/2021 16:00:47.718] Host de Sincronização_20f3f51c
+[INFO][10/02/2021 16:00:47.718] Dados de Contato_20f3f51c
+[INFO][10/02/2021 16:00:47.719] PrintWorkflow_20f3f51c
+[INFO][10/02/2021 16:00:47.719] Serviço de usuário UDK_20f3f51c
+[INFO][10/02/2021 16:00:47.72] Armazenamento de Dados de Usuário_20f3f51c
+[INFO][10/02/2021 16:00:47.72] Acesso a Dados de Usuário_20f3f51c
+[INFO][10/02/2021 16:00:47.72] Serviço de Usuário de Notificações por Push do Windows_20f3f51c
+[INFO][10/02/2021 16:20:11.549] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:20:11.565] Method: CleanersInit, started...
+[INFO][10/02/2021 16:20:11.566] Clearing temp folders...
+[INFO][10/02/2021 16:20:11.567] -----------------
+[INFO][10/02/2021 16:20:11.568] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:20:11.569] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:20:11.574] Remaining files and folders: 0
+[INFO][10/02/2021 16:20:11.575] -----------------
+[INFO][10/02/2021 16:20:11.58] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:20:11.581] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:20:11.584] Remaining files and folders: 0
+[INFO][10/02/2021 16:20:11.586] -----------------
+[INFO][10/02/2021 16:20:11.594] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:20:11.595] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:20:11.597] Remaining files and folders: 0
+[INFO][10/02/2021 16:20:11.601] -----------------
+[INFO][10/02/2021 16:20:11.603] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 52
+[INFO][10/02/2021 16:20:13.554] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:20:13.556] Remaining files and folders: 49
+[INFO][10/02/2021 16:20:13.556] -----------------
+[INFO][10/02/2021 16:20:13.56] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:20:13.562] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:20:13.565] Remaining files and folders: 0
+[INFO][10/02/2021 16:20:13.565] -----------------
+[INFO][10/02/2021 16:20:13.566] All Temp folders was cleared
+[INFO][10/02/2021 16:20:13.569] -----------------
+[INFO][10/02/2021 16:20:13.569] Clearing Trash...
+[INFO][10/02/2021 16:20:13.901] Trash was cleared
+[INFO][10/02/2021 16:20:13.909] Serviço do Google Update (gupdate)
+[INFO][10/02/2021 16:20:13.909] Serviço do Google Update (gupdatem)
+[INFO][10/02/2021 16:20:13.921] Registro remoto
+[INFO][10/02/2021 16:20:13.93] Cartão inteligente
+[INFO][10/02/2021 16:20:13.933] Serviço de Relatórios de Erro do Windows
+[INFO][10/02/2021 16:20:13.933] Windows Update
+[INFO][10/02/2021 16:27:07.788] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:27:07.792] Method: CleanersInit, started...
+[INFO][10/02/2021 16:27:07.793] Clearing temp folders...
+[INFO][10/02/2021 16:27:07.793] -----------------
+[INFO][10/02/2021 16:27:07.794] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:07.796] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:07.796] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:07.797] -----------------
+[INFO][10/02/2021 16:27:07.798] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:07.8] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:07.801] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:07.801] -----------------
+[INFO][10/02/2021 16:27:07.802] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:07.802] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:07.803] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:07.803] -----------------
+[INFO][10/02/2021 16:27:07.804] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 54
+[INFO][10/02/2021 16:27:33.175] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:27:33.18] Method: CleanersInit, started...
+[INFO][10/02/2021 16:27:33.181] Clearing temp folders...
+[INFO][10/02/2021 16:27:33.181] -----------------
+[INFO][10/02/2021 16:27:33.182] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:33.184] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:33.187] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:33.191] -----------------
+[INFO][10/02/2021 16:27:33.192] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:33.193] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:33.194] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:33.195] -----------------
+[INFO][10/02/2021 16:27:33.196] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:33.196] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:33.197] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:33.198] -----------------
+[INFO][10/02/2021 16:27:33.199] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 52
+[INFO][10/02/2021 16:27:34.639] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:34.64] Remaining files and folders: 49
+[INFO][10/02/2021 16:27:34.641] -----------------
+[INFO][10/02/2021 16:27:34.642] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:27:34.643] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:27:34.643] Remaining files and folders: 0
+[INFO][10/02/2021 16:27:34.644] -----------------
+[INFO][10/02/2021 16:27:34.644] All Temp folders was cleared
+[INFO][10/02/2021 16:27:34.645] -----------------
+[INFO][10/02/2021 16:27:34.645] Clearing Trash...
+[INFO][10/02/2021 16:27:34.748] Trash was cleared
+[INFO][10/02/2021 16:27:34.751] Parando servicos desnecessarios...
+[INFO][10/02/2021 16:27:34.757] Serviço do Google Update (gupdate) Stopped
+[INFO][10/02/2021 16:27:34.76] Serviço do Google Update (gupdatem) Stopped
+[INFO][10/02/2021 16:27:34.76] Registro remoto Stopped
+[INFO][10/02/2021 16:27:34.761] Cartão inteligente Stopped
+[INFO][10/02/2021 16:27:34.761] Serviço de Relatórios de Erro do Windows Stopped
+[INFO][10/02/2021 16:27:34.766] Windows Update Stopped
+[INFO][10/02/2021 16:37:43.157] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:37:43.169] Method: CleanersInit, started...
+[INFO][10/02/2021 16:37:43.178] Clearing temp folders...
+[INFO][10/02/2021 16:37:43.179] -----------------
+[INFO][10/02/2021 16:37:43.181] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:37:43.182] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:37:43.182] Remaining files and folders: 0
+[INFO][10/02/2021 16:37:43.183] -----------------
+[INFO][10/02/2021 16:37:43.185] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:37:43.187] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:37:43.189] Remaining files and folders: 0
+[INFO][10/02/2021 16:37:43.19] -----------------
+[INFO][10/02/2021 16:37:43.191] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:37:43.192] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:37:43.193] Remaining files and folders: 0
+[INFO][10/02/2021 16:37:43.194] -----------------
+[INFO][10/02/2021 16:37:43.195] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 53
+[INFO][10/02/2021 16:37:45.189] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:37:45.19] Remaining files and folders: 50
+[INFO][10/02/2021 16:37:45.19] -----------------
+[INFO][10/02/2021 16:37:45.191] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:37:45.192] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:37:45.192] Remaining files and folders: 0
+[INFO][10/02/2021 16:37:45.192] -----------------
+[INFO][10/02/2021 16:37:45.193] All Temp folders was cleared
+[INFO][10/02/2021 16:37:45.194] -----------------
+[INFO][10/02/2021 16:37:45.206] Clearing Trash...
+[INFO][10/02/2021 16:37:45.382] Trash was cleared
+[INFO][10/02/2021 16:37:45.385] Parando servicos desnecessarios...
+[INFO][10/02/2021 16:37:45.389] Checando status do servico: Serviço do Google Update (gupdate)...
+[INFO][10/02/2021 16:37:45.389] Checando status do servico: Serviço do Google Update (gupdatem)...
+[INFO][10/02/2021 16:37:45.39] Checando status do servico: Registro remoto...
+[INFO][10/02/2021 16:37:45.39] Checando status do servico: Cartão inteligente...
+[INFO][10/02/2021 16:37:45.391] Checando status do servico: Serviço de Relatórios de Erro do Windows...
+[INFO][10/02/2021 16:37:45.391] Checando status do servico: Windows Update...
+[INFO][10/02/2021 16:37:45.392] Nenhum serviço foi parado pois todos ja estavam parados.
+[INFO][10/02/2021 16:39:18.119] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:39:18.124] Method: CleanersInit, started...
+[INFO][10/02/2021 16:39:18.125] Clearing temp folders...
+[INFO][10/02/2021 16:39:18.126] -----------------
+[INFO][10/02/2021 16:39:18.127] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:18.128] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:18.129] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:18.129] -----------------
+[INFO][10/02/2021 16:39:18.13] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:18.131] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:18.136] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:18.138] -----------------
+[INFO][10/02/2021 16:39:18.14] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:18.143] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:18.146] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:18.147] -----------------
+[INFO][10/02/2021 16:39:18.156] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 52
+[INFO][10/02/2021 16:39:19.866] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:19.866] Remaining files and folders: 51
+[INFO][10/02/2021 16:39:19.866] -----------------
+[INFO][10/02/2021 16:39:19.867] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:19.87] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:19.87] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:19.871] -----------------
+[INFO][10/02/2021 16:39:19.871] All Temp folders was cleared
+[INFO][10/02/2021 16:39:19.872] -----------------
+[INFO][10/02/2021 16:39:19.872] Clearing Trash...
+[INFO][10/02/2021 16:39:19.976] Trash was cleared
+[INFO][10/02/2021 16:39:19.977] -----------------
+[INFO][10/02/2021 16:39:19.978] Parando servicos desnecessarios...
+[INFO][10/02/2021 16:39:19.982] -----------------
+[INFO][10/02/2021 16:39:19.982] -----------------
+[INFO][10/02/2021 16:39:19.983] -----------------
+[INFO][10/02/2021 16:39:19.983] -----------------
+[INFO][10/02/2021 16:39:19.984] -----------------
+[INFO][10/02/2021 16:39:19.985] -----------------
+[INFO][10/02/2021 16:39:19.986] -----------------
+[INFO][10/02/2021 16:39:19.986] -----------------
+[INFO][10/02/2021 16:39:19.986] -----------------
+[INFO][10/02/2021 16:39:19.987] -----------------
+[INFO][10/02/2021 16:39:19.987] -----------------
+[INFO][10/02/2021 16:39:19.988] -----------------
+[INFO][10/02/2021 16:39:19.989] -----------------
+[INFO][10/02/2021 16:39:19.993] -----------------
+[INFO][10/02/2021 16:39:19.997] -----------------
+[INFO][10/02/2021 16:39:19.998] -----------------
+[INFO][10/02/2021 16:39:19.999] -----------------
+[INFO][10/02/2021 16:39:20] -----------------
+[INFO][10/02/2021 16:39:20] -----------------
+[INFO][10/02/2021 16:39:20.001] -----------------
+[INFO][10/02/2021 16:39:20.002] -----------------
+[INFO][10/02/2021 16:39:20.003] -----------------
+[INFO][10/02/2021 16:39:20.006] -----------------
+[INFO][10/02/2021 16:39:20.008] -----------------
+[INFO][10/02/2021 16:39:20.008] -----------------
+[INFO][10/02/2021 16:39:20.009] -----------------
+[INFO][10/02/2021 16:39:20.01] -----------------
+[INFO][10/02/2021 16:39:20.01] -----------------
+[INFO][10/02/2021 16:39:20.011] -----------------
+[INFO][10/02/2021 16:39:20.011] -----------------
+[INFO][10/02/2021 16:39:20.012] -----------------
+[INFO][10/02/2021 16:39:20.012] -----------------
+[INFO][10/02/2021 16:39:20.013] -----------------
+[INFO][10/02/2021 16:39:20.013] -----------------
+[INFO][10/02/2021 16:39:20.014] -----------------
+[INFO][10/02/2021 16:39:20.015] -----------------
+[INFO][10/02/2021 16:39:20.015] -----------------
+[INFO][10/02/2021 16:39:20.016] -----------------
+[INFO][10/02/2021 16:39:20.016] -----------------
+[INFO][10/02/2021 16:39:20.017] -----------------
+[INFO][10/02/2021 16:39:20.017] -----------------
+[INFO][10/02/2021 16:39:20.018] -----------------
+[INFO][10/02/2021 16:39:20.018] -----------------
+[INFO][10/02/2021 16:39:20.019] -----------------
+[INFO][10/02/2021 16:39:20.019] -----------------
+[INFO][10/02/2021 16:39:20.02] -----------------
+[INFO][10/02/2021 16:39:20.023] -----------------
+[INFO][10/02/2021 16:39:20.024] -----------------
+[INFO][10/02/2021 16:39:20.026] -----------------
+[INFO][10/02/2021 16:39:20.026] -----------------
+[INFO][10/02/2021 16:39:20.027] -----------------
+[INFO][10/02/2021 16:39:20.028] -----------------
+[INFO][10/02/2021 16:39:20.028] -----------------
+[INFO][10/02/2021 16:39:20.028] -----------------
+[INFO][10/02/2021 16:39:20.029] -----------------
+[INFO][10/02/2021 16:39:20.03] -----------------
+[INFO][10/02/2021 16:39:20.03] -----------------
+[INFO][10/02/2021 16:39:20.03] -----------------
+[INFO][10/02/2021 16:39:20.031] -----------------
+[INFO][10/02/2021 16:39:20.031] -----------------
+[INFO][10/02/2021 16:39:20.031] -----------------
+[INFO][10/02/2021 16:39:20.032] -----------------
+[INFO][10/02/2021 16:39:20.032] -----------------
+[INFO][10/02/2021 16:39:20.032] -----------------
+[INFO][10/02/2021 16:39:20.033] -----------------
+[INFO][10/02/2021 16:39:20.033] -----------------
+[INFO][10/02/2021 16:39:20.033] -----------------
+[INFO][10/02/2021 16:39:20.034] -----------------
+[INFO][10/02/2021 16:39:20.034] Checando status do servico: Serviço do Google Update (gupdate)...
+[INFO][10/02/2021 16:39:20.035] -----------------
+[INFO][10/02/2021 16:39:20.035] Checando status do servico: Serviço do Google Update (gupdatem)...
+[INFO][10/02/2021 16:39:20.035] -----------------
+[INFO][10/02/2021 16:39:20.039] -----------------
+[INFO][10/02/2021 16:39:20.039] -----------------
+[INFO][10/02/2021 16:39:20.04] -----------------
+[INFO][10/02/2021 16:39:20.04] -----------------
+[INFO][10/02/2021 16:39:20.04] -----------------
+[INFO][10/02/2021 16:39:20.041] -----------------
+[INFO][10/02/2021 16:39:20.041] -----------------
+[INFO][10/02/2021 16:39:20.041] -----------------
+[INFO][10/02/2021 16:39:20.042] -----------------
+[INFO][10/02/2021 16:39:20.042] -----------------
+[INFO][10/02/2021 16:39:20.042] -----------------
+[INFO][10/02/2021 16:39:20.043] -----------------
+[INFO][10/02/2021 16:39:20.043] -----------------
+[INFO][10/02/2021 16:39:20.043] -----------------
+[INFO][10/02/2021 16:39:20.043] -----------------
+[INFO][10/02/2021 16:39:20.044] -----------------
+[INFO][10/02/2021 16:39:20.044] -----------------
+[INFO][10/02/2021 16:39:20.045] -----------------
+[INFO][10/02/2021 16:39:20.045] -----------------
+[INFO][10/02/2021 16:39:20.045] -----------------
+[INFO][10/02/2021 16:39:20.045] -----------------
+[INFO][10/02/2021 16:39:20.046] -----------------
+[INFO][10/02/2021 16:39:20.046] -----------------
+[INFO][10/02/2021 16:39:20.046] -----------------
+[INFO][10/02/2021 16:39:20.047] -----------------
+[INFO][10/02/2021 16:39:20.047] -----------------
+[INFO][10/02/2021 16:39:20.047] -----------------
+[INFO][10/02/2021 16:39:20.048] -----------------
+[INFO][10/02/2021 16:39:20.048] -----------------
+[INFO][10/02/2021 16:39:20.049] -----------------
+[INFO][10/02/2021 16:39:20.049] -----------------
+[INFO][10/02/2021 16:39:20.049] -----------------
+[INFO][10/02/2021 16:39:20.05] -----------------
+[INFO][10/02/2021 16:39:20.05] -----------------
+[INFO][10/02/2021 16:39:20.05] -----------------
+[INFO][10/02/2021 16:39:20.051] -----------------
+[INFO][10/02/2021 16:39:20.051] -----------------
+[INFO][10/02/2021 16:39:20.051] -----------------
+[INFO][10/02/2021 16:39:20.055] -----------------
+[INFO][10/02/2021 16:39:20.071] -----------------
+[INFO][10/02/2021 16:39:20.071] -----------------
+[INFO][10/02/2021 16:39:20.073] -----------------
+[INFO][10/02/2021 16:39:20.074] -----------------
+[INFO][10/02/2021 16:39:20.075] -----------------
+[INFO][10/02/2021 16:39:20.079] -----------------
+[INFO][10/02/2021 16:39:20.079] -----------------
+[INFO][10/02/2021 16:39:20.08] -----------------
+[INFO][10/02/2021 16:39:20.08] -----------------
+[INFO][10/02/2021 16:39:20.081] -----------------
+[INFO][10/02/2021 16:39:20.081] -----------------
+[INFO][10/02/2021 16:39:20.082] -----------------
+[INFO][10/02/2021 16:39:20.085] -----------------
+[INFO][10/02/2021 16:39:20.087] -----------------
+[INFO][10/02/2021 16:39:20.088] -----------------
+[INFO][10/02/2021 16:39:20.09] -----------------
+[INFO][10/02/2021 16:39:20.091] -----------------
+[INFO][10/02/2021 16:39:20.091] -----------------
+[INFO][10/02/2021 16:39:20.092] -----------------
+[INFO][10/02/2021 16:39:20.092] -----------------
+[INFO][10/02/2021 16:39:20.092] -----------------
+[INFO][10/02/2021 16:39:20.093] -----------------
+[INFO][10/02/2021 16:39:20.093] -----------------
+[INFO][10/02/2021 16:39:20.094] -----------------
+[INFO][10/02/2021 16:39:20.096] -----------------
+[INFO][10/02/2021 16:39:20.096] -----------------
+[INFO][10/02/2021 16:39:20.096] -----------------
+[INFO][10/02/2021 16:39:20.097] -----------------
+[INFO][10/02/2021 16:39:20.098] -----------------
+[INFO][10/02/2021 16:39:20.098] -----------------
+[INFO][10/02/2021 16:39:20.1] -----------------
+[INFO][10/02/2021 16:39:20.105] Checando status do servico: Registro remoto...
+[INFO][10/02/2021 16:39:20.106] -----------------
+[INFO][10/02/2021 16:39:20.107] -----------------
+[INFO][10/02/2021 16:39:20.107] -----------------
+[INFO][10/02/2021 16:39:20.108] -----------------
+[INFO][10/02/2021 16:39:20.108] -----------------
+[INFO][10/02/2021 16:39:20.108] -----------------
+[INFO][10/02/2021 16:39:20.109] -----------------
+[INFO][10/02/2021 16:39:20.109] -----------------
+[INFO][10/02/2021 16:39:20.11] Checando status do servico: Cartão inteligente...
+[INFO][10/02/2021 16:39:20.11] -----------------
+[INFO][10/02/2021 16:39:20.11] -----------------
+[INFO][10/02/2021 16:39:20.111] -----------------
+[INFO][10/02/2021 16:39:20.111] -----------------
+[INFO][10/02/2021 16:39:20.112] -----------------
+[INFO][10/02/2021 16:39:20.112] -----------------
+[INFO][10/02/2021 16:39:20.112] -----------------
+[INFO][10/02/2021 16:39:20.113] -----------------
+[INFO][10/02/2021 16:39:20.113] -----------------
+[INFO][10/02/2021 16:39:20.113] -----------------
+[INFO][10/02/2021 16:39:20.115] -----------------
+[INFO][10/02/2021 16:39:20.124] -----------------
+[INFO][10/02/2021 16:39:20.125] -----------------
+[INFO][10/02/2021 16:39:20.128] -----------------
+[INFO][10/02/2021 16:39:20.132] -----------------
+[INFO][10/02/2021 16:39:20.136] -----------------
+[INFO][10/02/2021 16:39:20.149] -----------------
+[INFO][10/02/2021 16:39:20.15] -----------------
+[INFO][10/02/2021 16:39:20.152] -----------------
+[INFO][10/02/2021 16:39:20.155] -----------------
+[INFO][10/02/2021 16:39:20.155] -----------------
+[INFO][10/02/2021 16:39:20.159] -----------------
+[INFO][10/02/2021 16:39:20.168] -----------------
+[INFO][10/02/2021 16:39:20.169] -----------------
+[INFO][10/02/2021 16:39:20.169] -----------------
+[INFO][10/02/2021 16:39:20.169] -----------------
+[INFO][10/02/2021 16:39:20.17] -----------------
+[INFO][10/02/2021 16:39:20.17] -----------------
+[INFO][10/02/2021 16:39:20.17] -----------------
+[INFO][10/02/2021 16:39:20.171] -----------------
+[INFO][10/02/2021 16:39:20.177] -----------------
+[INFO][10/02/2021 16:39:20.179] -----------------
+[INFO][10/02/2021 16:39:20.181] -----------------
+[INFO][10/02/2021 16:39:20.182] -----------------
+[INFO][10/02/2021 16:39:20.183] -----------------
+[INFO][10/02/2021 16:39:20.183] -----------------
+[INFO][10/02/2021 16:39:20.184] -----------------
+[INFO][10/02/2021 16:39:20.185] -----------------
+[INFO][10/02/2021 16:39:20.186] -----------------
+[INFO][10/02/2021 16:39:20.187] -----------------
+[INFO][10/02/2021 16:39:20.188] -----------------
+[INFO][10/02/2021 16:39:20.188] -----------------
+[INFO][10/02/2021 16:39:20.191] -----------------
+[INFO][10/02/2021 16:39:20.192] -----------------
+[INFO][10/02/2021 16:39:20.192] -----------------
+[INFO][10/02/2021 16:39:20.193] -----------------
+[INFO][10/02/2021 16:39:20.193] -----------------
+[INFO][10/02/2021 16:39:20.194] -----------------
+[INFO][10/02/2021 16:39:20.195] -----------------
+[INFO][10/02/2021 16:39:20.196] -----------------
+[INFO][10/02/2021 16:39:20.197] -----------------
+[INFO][10/02/2021 16:39:20.197] -----------------
+[INFO][10/02/2021 16:39:20.198] -----------------
+[INFO][10/02/2021 16:39:20.199] -----------------
+[INFO][10/02/2021 16:39:20.199] -----------------
+[INFO][10/02/2021 16:39:20.2] -----------------
+[INFO][10/02/2021 16:39:20.2] -----------------
+[INFO][10/02/2021 16:39:20.2] -----------------
+[INFO][10/02/2021 16:39:20.201] -----------------
+[INFO][10/02/2021 16:39:20.201] -----------------
+[INFO][10/02/2021 16:39:20.201] -----------------
+[INFO][10/02/2021 16:39:20.202] -----------------
+[INFO][10/02/2021 16:39:20.202] -----------------
+[INFO][10/02/2021 16:39:20.202] -----------------
+[INFO][10/02/2021 16:39:20.203] -----------------
+[INFO][10/02/2021 16:39:20.203] -----------------
+[INFO][10/02/2021 16:39:20.203] -----------------
+[INFO][10/02/2021 16:39:20.204] -----------------
+[INFO][10/02/2021 16:39:20.204] -----------------
+[INFO][10/02/2021 16:39:20.204] -----------------
+[INFO][10/02/2021 16:39:20.207] -----------------
+[INFO][10/02/2021 16:39:20.209] -----------------
+[INFO][10/02/2021 16:39:20.209] -----------------
+[INFO][10/02/2021 16:39:20.209] -----------------
+[INFO][10/02/2021 16:39:20.21] -----------------
+[INFO][10/02/2021 16:39:20.21] -----------------
+[INFO][10/02/2021 16:39:20.211] -----------------
+[INFO][10/02/2021 16:39:20.212] -----------------
+[INFO][10/02/2021 16:39:20.212] -----------------
+[INFO][10/02/2021 16:39:20.213] -----------------
+[INFO][10/02/2021 16:39:20.228] Checando status do servico: Serviço de Relatórios de Erro do Windows...
+[INFO][10/02/2021 16:39:20.229] -----------------
+[INFO][10/02/2021 16:39:20.23] -----------------
+[INFO][10/02/2021 16:39:20.232] -----------------
+[INFO][10/02/2021 16:39:20.234] -----------------
+[INFO][10/02/2021 16:39:20.235] -----------------
+[INFO][10/02/2021 16:39:20.236] -----------------
+[INFO][10/02/2021 16:39:20.237] -----------------
+[INFO][10/02/2021 16:39:20.237] -----------------
+[INFO][10/02/2021 16:39:20.237] -----------------
+[INFO][10/02/2021 16:39:20.243] -----------------
+[INFO][10/02/2021 16:39:20.247] -----------------
+[INFO][10/02/2021 16:39:20.266] -----------------
+[INFO][10/02/2021 16:39:20.269] -----------------
+[INFO][10/02/2021 16:39:20.27] -----------------
+[INFO][10/02/2021 16:39:20.271] -----------------
+[INFO][10/02/2021 16:39:20.292] -----------------
+[INFO][10/02/2021 16:39:20.293] -----------------
+[INFO][10/02/2021 16:39:20.294] -----------------
+[INFO][10/02/2021 16:39:20.294] -----------------
+[INFO][10/02/2021 16:39:20.295] -----------------
+[INFO][10/02/2021 16:39:20.298] Checando status do servico: Windows Update...
+[INFO][10/02/2021 16:39:20.299] -----------------
+[INFO][10/02/2021 16:39:20.299] -----------------
+[INFO][10/02/2021 16:39:20.3] -----------------
+[INFO][10/02/2021 16:39:20.301] -----------------
+[INFO][10/02/2021 16:39:20.301] -----------------
+[INFO][10/02/2021 16:39:20.301] -----------------
+[INFO][10/02/2021 16:39:20.315] -----------------
+[INFO][10/02/2021 16:39:20.33] -----------------
+[INFO][10/02/2021 16:39:20.331] -----------------
+[INFO][10/02/2021 16:39:20.332] -----------------
+[INFO][10/02/2021 16:39:20.332] -----------------
+[INFO][10/02/2021 16:39:20.333] -----------------
+[INFO][10/02/2021 16:39:20.333] -----------------
+[INFO][10/02/2021 16:39:20.334] -----------------
+[INFO][10/02/2021 16:39:20.37] -----------------
+[INFO][10/02/2021 16:39:20.37] -----------------
+[INFO][10/02/2021 16:39:20.371] -----------------
+[INFO][10/02/2021 16:39:20.376] -----------------
+[INFO][10/02/2021 16:39:20.379] -----------------
+[INFO][10/02/2021 16:39:20.381] -----------------
+[INFO][10/02/2021 16:39:20.382] -----------------
+[INFO][10/02/2021 16:39:20.384] -----------------
+[INFO][10/02/2021 16:39:20.385] -----------------
+[INFO][10/02/2021 16:39:20.386] -----------------
+[INFO][10/02/2021 16:39:20.386] -----------------
+[INFO][10/02/2021 16:39:20.386] Nenhum serviço foi parado pois todos ja estavam parados.
+[INFO][10/02/2021 16:39:41.257] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:39:41.265] Method: CleanersInit, started...
+[INFO][10/02/2021 16:39:41.266] Clearing temp folders...
+[INFO][10/02/2021 16:39:41.267] -----------------
+[INFO][10/02/2021 16:39:41.275] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:41.279] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:41.28] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:41.28] -----------------
+[INFO][10/02/2021 16:39:41.282] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:41.283] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:41.284] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:41.284] -----------------
+[INFO][10/02/2021 16:39:41.286] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:41.287] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:41.288] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:41.288] -----------------
+[INFO][10/02/2021 16:39:41.295] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 50
+[INFO][10/02/2021 16:39:42.698] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:42.699] Remaining files and folders: 50
+[INFO][10/02/2021 16:39:42.699] -----------------
+[INFO][10/02/2021 16:39:42.7] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:39:42.701] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:39:42.702] Remaining files and folders: 0
+[INFO][10/02/2021 16:39:42.702] -----------------
+[INFO][10/02/2021 16:39:42.702] All Temp folders was cleared
+[INFO][10/02/2021 16:39:42.703] -----------------
+[INFO][10/02/2021 16:39:42.704] Clearing Trash...
+[INFO][10/02/2021 16:39:42.788] Trash was cleared
+[INFO][10/02/2021 16:39:42.789] -----------------
+[INFO][10/02/2021 16:39:42.79] Parando servicos desnecessarios...
+[INFO][10/02/2021 16:39:42.797] Checando status do servico: Serviço do Google Update (gupdate)...
+[INFO][10/02/2021 16:39:42.797] -----------------
+[INFO][10/02/2021 16:39:42.798] Checando status do servico: Serviço do Google Update (gupdatem)...
+[INFO][10/02/2021 16:39:42.798] -----------------
+[INFO][10/02/2021 16:39:42.799] Checando status do servico: Registro remoto...
+[INFO][10/02/2021 16:39:42.799] -----------------
+[INFO][10/02/2021 16:39:42.799] Checando status do servico: Cartão inteligente...
+[INFO][10/02/2021 16:39:42.8] -----------------
+[INFO][10/02/2021 16:39:42.8] Checando status do servico: Serviço de Relatórios de Erro do Windows...
+[INFO][10/02/2021 16:39:42.801] -----------------
+[INFO][10/02/2021 16:39:42.801] Checando status do servico: Windows Update...
+[INFO][10/02/2021 16:39:42.801] -----------------
+[INFO][10/02/2021 16:39:42.802] Nenhum serviço foi parado pois todos ja estavam parados.
+[INFO][10/02/2021 16:40:05.004] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:40:05.008] Method: CleanersInit, started...
+[INFO][10/02/2021 16:40:05.01] Clearing temp folders...
+[INFO][10/02/2021 16:40:05.01] -----------------
+[INFO][10/02/2021 16:40:05.011] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:40:05.013] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:40:05.014] Remaining files and folders: 0
+[INFO][10/02/2021 16:40:05.016] -----------------
+[INFO][10/02/2021 16:40:05.021] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:40:05.03] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:40:05.031] Remaining files and folders: 0
+[INFO][10/02/2021 16:40:05.038] -----------------
+[INFO][10/02/2021 16:40:05.039] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:40:05.039] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:40:05.04] Remaining files and folders: 0
+[INFO][10/02/2021 16:40:05.041] -----------------
+[INFO][10/02/2021 16:40:05.042] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 53
+[INFO][10/02/2021 16:40:08.168] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:40:08.17] Remaining files and folders: 51
+[INFO][10/02/2021 16:40:08.17] -----------------
+[INFO][10/02/2021 16:40:08.171] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:40:08.172] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:40:08.172] Remaining files and folders: 0
+[INFO][10/02/2021 16:40:08.173] -----------------
+[INFO][10/02/2021 16:40:08.173] All Temp folders was cleared
+[INFO][10/02/2021 16:40:08.174] -----------------
+[INFO][10/02/2021 16:40:08.175] Clearing Trash...
+[INFO][10/02/2021 16:40:08.269] Trash was cleared
+[INFO][10/02/2021 16:40:08.269] -----------------
+[INFO][10/02/2021 16:40:08.27] Parando servicos desnecessarios...
+[INFO][10/02/2021 16:40:08.275] Checando status do servico: Serviço do Google Update (gupdate)...
+[INFO][10/02/2021 16:40:08.275] Checando status do servico: Serviço do Google Update (gupdatem)...
+[INFO][10/02/2021 16:40:08.276] Checando status do servico: Registro remoto...
+[INFO][10/02/2021 16:40:08.277] Checando status do servico: Cartão inteligente...
+[INFO][10/02/2021 16:40:08.277] Checando status do servico: Serviço de Relatórios de Erro do Windows...
+[INFO][10/02/2021 16:40:08.277] Checando status do servico: Windows Update...
+[INFO][10/02/2021 16:40:08.278] Nenhum serviço foi parado pois todos ja estavam parados.
+[INFO][10/02/2021 16:53:08.937] Iniciando Pirate CCleaner
+[INFO][10/02/2021 16:53:08.941] Method: CleanersInit, started...
+[INFO][10/02/2021 16:53:08.942] Clearing temp folders...
+[INFO][10/02/2021 16:53:08.942] -----------------
+[INFO][10/02/2021 16:53:08.943] C:\Users\Default\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:53:08.944] C:\Users\Default\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:53:08.944] Remaining files and folders: 0
+[INFO][10/02/2021 16:53:08.945] -----------------
+[INFO][10/02/2021 16:53:08.946] C:\Users\Default User\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:53:08.947] C:\Users\Default User\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:53:08.948] Remaining files and folders: 0
+[INFO][10/02/2021 16:53:08.948] -----------------
+[INFO][10/02/2021 16:53:08.949] C:\Users\gaia\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:53:08.949] C:\Users\gaia\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:53:08.95] Remaining files and folders: 0
+[INFO][10/02/2021 16:53:08.951] -----------------
+[INFO][10/02/2021 16:53:08.952] C:\Users\Leandro - S4ME\AppData\Local\Temp - Total File and Folder 53
+[INFO][10/02/2021 16:53:10.568] C:\Users\Leandro - S4ME\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:53:10.569] Remaining files and folders: 51
+[INFO][10/02/2021 16:53:10.57] -----------------
+[INFO][10/02/2021 16:53:10.57] C:\Users\Usuário Padrão\AppData\Local\Temp - Total File and Folder 0
+[INFO][10/02/2021 16:53:10.571] C:\Users\Usuário Padrão\AppData\Local\Temp - Cleared
+[INFO][10/02/2021 16:53:10.572] Remaining files and folders: 0
+[INFO][10/02/2021 16:53:10.572] -----------------
+[INFO][10/02/2021 16:53:10.573] All Temp folders was cleared
+[INFO][10/02/2021 16:53:10.574] -----------------
+[INFO][10/02/2021 16:53:10.574] Clearing Trash...
+[INFO][10/02/2021 16:53:10.963] Trash was cleared
+[INFO][10/02/2021 16:53:10.963] -----------------
+[INFO][10/02/2021 16:53:10.965] Parando servicos desnecessarios...
+[INFO][10/02/2021 16:53:10.969] Checando status do servico: Serviço do Google Update (gupdate)...
+[INFO][10/02/2021 16:53:10.982] Checando status do servico: Serviço do Google Update (gupdatem)...
+[INFO][10/02/2021 16:53:10.991] Checando status do servico: Registro remoto...
+[INFO][10/02/2021 16:53:10.992] Checando status do servico: Cartão inteligente...
+[INFO][10/02/2021 16:53:10.992] Checando status do servico: Serviço de Relatórios de Erro do Windows...
+[INFO][10/02/2021 16:53:10.993] Checando status do servico: Windows Update...
+[INFO][10/02/2021 16:53:10.993] Nenhum serviço foi parado pois todos ja estavam parados.

@@ -1,0 +1,9 @@
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\bin\Debug\Pirate CCleaner.exe.config
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\bin\Debug\Pirate CCleaner.exe
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\bin\Debug\Pirate CCleaner.pdb
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\obj\Debug\Pirate CCleaner.csprojAssemblyReference.cache
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\obj\Debug\Pirate CCleaner.csproj.GenerateResource.cache
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\obj\Debug\Pirate CCleaner.csproj.CoreCompileInputs.cache
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\obj\Debug\Pirate CCleaner.exe
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\obj\Debug\Pirate CCleaner.pdb
+D:\Desktop\Pirate CCleaner\Pirate CCleaner\obj\Debug\Pirate_CCleaner.PirateCCleaner.resources

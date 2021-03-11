@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Pirate_CCleaner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TracerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Desktop\Pirate CCleaner\Log\</Value>
+    </Setting>
+    <Setting Name="Services" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WerSvc;SCardSvr;gupdate;gupdatem;RemoteRegistry;wuauserv</Value>
+    </Setting>
+    <Setting Name="TempFolders" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Trash" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
